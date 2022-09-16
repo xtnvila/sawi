@@ -1,0 +1,6 @@
+name: SAWI
+description: Simple AWS Web Interface
+runtime:
+    name: python
+    options:
+        virtualenv: venv
